@@ -1,7 +1,7 @@
 # my-first-react-native
 Simple TODO list 
 
-my first mobile app using react-native and the almighty expo-cli.\n
+my first mobile app using react-native and the almighty expo-cli.
 It is a Simple ToDO list, in which you can create, edit, delete notes.
 
 ## Specs
