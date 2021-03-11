@@ -5,7 +5,7 @@ my first mobile app using react-native and the almighty expo-cli.
 It is a Simple ToDO list, in which you can create, edit, delete notes.
 
 ## Specs
-*React
-*React-Native
-*Expo-cli
-*etc
+- React
+- React-Native
+- Expo-cli
+- etc
